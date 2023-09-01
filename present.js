@@ -1,6 +1,6 @@
 
 var to = 'You!';
-var gift_url = 'https://www.facebook.com/ngocanhle.hf';
+var gift_url = 'https://www.facebook.com/thuss.huyen.1';
 var gift_image_url = 'hot-girl.png';
 
 
